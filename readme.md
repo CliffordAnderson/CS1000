@@ -1,4 +1,4 @@
-# CS 1000: The Beauty and Joy of Computing
+# Syllabus of CS 1000
 
 This course introduces the fundamental concepts of computing including abstraction, algorithms, design, and distributed computation. The curriculum is hands-on, focusing on translating ideas into working computer programs and developing a mastery of practical computational literacy. We write our programs in [NetsBlox](https://netsblox.org/), a block-based language developed by a research team at Vanderbilt University. Along the way, we also discuss the history, ethics, and cultural impact of computing.  
 
@@ -6,7 +6,7 @@ While envisioned as an introduction to computing for non-majors, majors and pros
 
 ## Faculty
 
-- Clifford Anderson, Associate University Librarian for Research and Learning
+- [Clifford Anderson](https://www.cliffordanderson.net/), Associate University Librarian for Research and Learning
   - Email: clifford.anderson@vanderbilt.edu
   - Office: 213 Law Library
   - Office Hours: 9 - 11 a.m. on Mondays or by appointment
