@@ -1,6 +1,6 @@
-# Syllabus of CS 1000
+# CS 1000: The Beauty and Joy of Computing
 
-This course introduces the fundamental concepts of computing including abstraction, algorithms, design, and distributed computation. The curriculum is hands-on, focusing on translating ideas into working computer programs and developing a mastery of practical computational literacy. We write our programs in [NetsBlox](https://netsblox.org/), a block-based language developed by a research team at Vanderbilt University. Along the way, we also discuss the social relevance and impact of computing.  
+This course introduces the fundamental concepts of computing including abstraction, algorithms, design, and distributed computation. The curriculum is hands-on, focusing on translating ideas into working computer programs and developing a mastery of practical computational literacy. We write our programs in [NetsBlox](https://netsblox.org/), a block-based language developed by a research team at Vanderbilt University. Along the way, we also discuss the history, ethics, and cultural impact of computing.  
 
 While envisioned as an introduction to computing for non-majors, majors and prospective majors are also welcome. Students in the School of Engineering may only receive open elective credit for CS 1000.
 
