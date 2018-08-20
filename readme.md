@@ -14,7 +14,7 @@ A mirror copy of the syllabus is available on [Github](https://github.com/Cliffo
 
 ## Faculty
 
-- Clifford Anderson, Associate University Librarian for Research and Learning
+- [Clifford Anderson](https://www.cliffordanderson.net/), Associate University Librarian for Research and Learning
   - Email: clifford.anderson@vanderbilt.edu
   - Office: 213 Law Library
   - Office Hours: 9 - 11 a.m. on Mondays or by appointment
