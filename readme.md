@@ -1,8 +1,16 @@
-# CS 1000: The Beauty and Joy of Computing
+# Syllabus of CS 1000
 
 This course introduces the fundamental concepts of computing including abstraction, algorithms, design, and distributed computation. The curriculum is hands-on, focusing on translating ideas into working computer programs and developing a mastery of practical computational literacy. We write our programs in [NetsBlox](https://netsblox.org/), a block-based language developed by a research team at Vanderbilt University. Along the way, we also discuss the history, ethics, and cultural impact of computing.  
 
 While envisioned as an introduction to computing for non-majors, majors and prospective majors are also welcome. Students in the School of Engineering may only receive open elective credit for CS 1000.
+
+A mirror copy of the syllabus is available on [Github](https://github.com/CliffordAnderson/CS1000).
+
+## Learning Outcomes
+
+1. Solve simple problems with short computer programs
+2. Examine ethical and social issues arising from the increasing role of algorithms and computer software in everyday life
+3. Identify the relevance of computational thinking to your particular major and fields of interest
 
 ## Faculty
 
@@ -22,14 +30,14 @@ While envisioned as an introduction to computing for non-majors, majors and pros
 - Erwig, Martin. *Once Upon an Algorithm: How Stories Explain Computing*. Cambridge: The MIT Press, 2017.
 - Evans, Claire. *Broad Brand: The Untold Story of the Women Who Made the Internet*. New York: Portfolio/Penguin, 2018.
 
-Other assigned readings will be available via BrightSpace.
+Other assigned readings will be available via BrightSpace. The syllabus also includes links to short videos for each session.
 
 ## Grade distribution
 
 - Class Participation 10%
 - Coding Assignments 15% (5 assignments x 3 points each)
 - Midterm Examination 15%
-- Final Paper 30%
+- Final Paper 30% (5 to 7 pages)
 - Final Project 30%
 
 ## Class policies
@@ -72,8 +80,8 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Watch: [Computational Thinking: A Digital Age Skill for Everyone](https://www.youtube.com/watch?v=VFcUgSYyRPg)
 - Code:
   - Draw a square
+  - Draw a triangle
   - Draw a circle
-  - Draw a snowflake
 
 ### Week Two: Programming Basics
 
@@ -103,6 +111,8 @@ This syllabus provides a general outline for the course. Given that this is the 
   - Palindrome Checker
 
 #### September 6 - Privacy and Information Hiding
+*Guest Lecturer: Melissa Mallon, Director of the Peabody Library and Director of Teaching and Learning, Vanderbilt University Library*
+
 *Coding assignment 1 due at the beginning of class*
 
 - Read: Hal Abelson, Ken Ledeen, and Harry Lewis, "Naked in the Sunlight: Privacy Lost, Privacy Abandoned ," Chapter 2 of *Blown to Bits: Your Life, Liberty, and Happiness after the Digital Explosion* (Upper Saddle River, NJ: Addison-Wesley, 2008)
