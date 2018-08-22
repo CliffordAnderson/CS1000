@@ -14,14 +14,14 @@ A mirror copy of the syllabus is available on [Github](https://github.com/Cliffo
 
 ## Faculty
 
-- [Clifford Anderson](https://www.cliffordanderson.net/), Associate University Librarian for Research and Learning
+- [Clifford Anderson](https://www.cliffordanderson.net/), Associate University Librarian for Research and Learning and Adjunct Professor of Computer Science
   - Email: clifford.anderson@vanderbilt.edu
   - Office: 213 Law Library
   - Office Hours: 9 - 11 a.m. on Mondays or by appointment
   - Administrative Assistant: Susan D. Grider (2-2187)
 
 - Lindsey Kendall, Grader
-  - Email: lindsey.s.kendall.1@vanderbilt.edu 
+  - Email: lindsey.s.kendall.1@vanderbilt.edu
   - Office: TBD
   - Office Hours: TBD
 
