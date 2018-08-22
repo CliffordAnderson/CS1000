@@ -20,6 +20,11 @@ A mirror copy of the syllabus is available on [Github](https://github.com/Cliffo
   - Office Hours: 9 - 11 a.m. on Mondays or by appointment
   - Administrative Assistant: Susan D. Grider (2-2187)
 
+- Lindsey Kendall, Grader
+  - Email: lindsey.s.kendall.1@vanderbilt.edu 
+  - Office: TBD
+  - Office Hours: TBD
+
 ## Meetings
 
 - T/R 8:10 a.m. - 9:25 a.m. in Featheringill Hall 136
