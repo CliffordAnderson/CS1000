@@ -22,8 +22,8 @@ A mirror copy of the syllabus is available on [Github](https://github.com/Cliffo
 
 - Lindsey Kendall, Grader
   - Email: lindsey.s.kendall.1@vanderbilt.edu
-  - Office: TBD
-  - Office Hours: TBD
+  - Office: 341 Featheringill Hall
+  - Office Hours: 10 - 12 p.m. on Mondays and Wednesdays
 
 ## Meetings
 
