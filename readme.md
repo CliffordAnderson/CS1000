@@ -113,6 +113,8 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Read: "Weather, Rinse, Repeat," Chapter 10 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [What's an Algorithm?](https://www.youtube.com/watch?v=6hfOvs8pY1k&t=)
 - Code:
+  - Incrementing and Decrementing Variables
+  - Reporter Blocks
   - Palindrome Checker
 
 #### September 6 - Privacy and Information Hiding
@@ -123,9 +125,8 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Read: Hal Abelson, Ken Ledeen, and Harry Lewis, "Naked in the Sunlight: Privacy Lost, Privacy Abandoned ," Chapter 2 of *Blown to Bits: Your Life, Liberty, and Happiness after the Digital Explosion* (Upper Saddle River, NJ: Addison-Wesley, 2008)
 - Watch: [Do Digital Home Devices Put your Privacy at Risk?](https://www.youtube.com/watch?v=3QzmmeTEk30)
 - Code:
-  - Incrementing Variables
-  - Local Variables in Functions
-  - Reporter Blocks
+  - Make Your Own Block
+  - Using Local Variables in Blocks
 
 ### Week Four: Data Structures I
 
