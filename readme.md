@@ -125,8 +125,9 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Read: Hal Abelson, Ken Ledeen, and Harry Lewis, "Naked in the Sunlight: Privacy Lost, Privacy Abandoned ," Chapter 2 of *Blown to Bits: Your Life, Liberty, and Happiness after the Digital Explosion* (Upper Saddle River, NJ: Addison-Wesley, 2008)
 - Watch: [Do Digital Home Devices Put your Privacy at Risk?](https://www.youtube.com/watch?v=3QzmmeTEk30)
 - Code:
-  - Make Your Own Block
-  - Using Local Variables in Blocks
+  - Global Variables and Sprite Variables (Quantum Time Distortion)
+  - Make Your Own Block (Say Hello; Square; Draw a Shape; Day of the Week)
+  - Using Local Variables in Blocks (Palindrome Checker Function)
 
 ### Week Four: Data Structures I
 
