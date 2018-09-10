@@ -127,7 +127,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Code:
   - Global Variables and Sprite Variables (Quantum Time Distortion)
   - Make Your Own Block (Say Hello; Square; Draw a Shape; Day of the Week)
-  - Using Local Variables in Blocks (Palindrome Checker Function)
+  - Parameters and Arguments (Palindrome Checker *revisited*)
 
 ### Week Four: Data Structures I
 
