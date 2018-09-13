@@ -146,7 +146,6 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Code:
   - Distinct Values
   - Filtering Google Trends
-  - Nashville Guessing Game
 
 ### Week Five: Data Structures II
 
