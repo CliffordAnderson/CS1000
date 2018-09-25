@@ -1,4 +1,4 @@
-# Assignment Four: Show Top Trend Internationally
+# Assignment Five: Show Top Trend Internationally
 
 The goal of this assignment is to create a function takes a two digit country code and returns the top trend (from [Google Trends](https://trends.google.com/trends/?geo=US)) for that country. In the [project file](top-trend.xml) in this folder, you will find a function called `top trend in _` that accepts a two digit country code (from a dropdown list). Drag it on the scripting area of NetsBlox, right-click to edit the custom block, and you will find everything you need to get started.
 
