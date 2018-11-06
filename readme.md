@@ -264,7 +264,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 
 ### Week Twelve: Algorithms II
 
-#### November 8 - Recursion
+#### November 6 - Recursion
 
   - Read: Martin Erwig, "A Stich in Time Computers Fine," Chapter 12 of *Once Upon an Algorithm: How Stories Explain Computing"* (Cambridge: MIT Press, 2017)
   - Watch: [What on Earth is Recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
@@ -274,7 +274,7 @@ This syllabus provides a general outline for the course. Given that this is the 
     - QuickSort
     - Towers of Hanoi
 
-#### November 10 - Efficiency and Limits of Computing
+#### November 8 - Efficiency and Limits of Computing
 
   - Read: "Mission Intractable," Chapter 7 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
   - Watch: [P vs NP on TV](https://www.youtube.com/watch?v=dJUEkjxylBw)
