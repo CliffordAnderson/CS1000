@@ -303,7 +303,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 ### Week Fourteen: Next Steps
 
 #### November 27 - Computational Thinking Beyond *NetsBlox*
-*Guest Lecturer: Prof. Julie Johnson, Associate Professor of the Practice of Computer Science and Director of Undergraduate Studies in Computer Science*
+Guest Lecturer: Prof. Julie Johnson, Associate Professor of the Practice of Computer Science and Director of Undergraduate Studies in Computer Science
 
 - Read: Martin Erwig, "A Bird's Eye View of Abstracting from Details," Chapter 15 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [The Art of Abstraction](https://www.youtube.com/watch?v=p7nGcY73epw)
@@ -311,6 +311,7 @@ This syllabus provides a general outline for the course. Given that this is the 
   - Javascript in NetsBlox
 
 #### November 29 - Digital Humanities
+Guest Lecturer: Prof. Mickey Casad, Senior Lecturer in Cinema and Media Arts and Associate Director of the Vanderbilt Center for Digital Humanities
 
 - Read: Edward Vanhoutte, [The Gates of Hell: History and Definition of Digital | Humanities | Computing](http://blogs.ucl.ac.uk/definingdh/files/2013/10/Chapter-6_EV.pdf), Chapter 6 of *Defining Digital Humanities: A Reader*, ed. Melissa Terras, Julianne Nyhan, and Edward Vanhoutte (Surrey: Ashgate, 2013)
 Computing
