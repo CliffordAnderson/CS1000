@@ -164,7 +164,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Read: Martin Erwig, "The Magical Type," Chapter 14 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [Data Types](https://www.youtube.com/watch?v=5wx3EWjOqnc)
 - Code:
-  - Storing, Editing, and Retrieving Data in Lists
+  - 'Push' and 'Pop' Functions
   - Structured Data Library
 
 #### February 7 - Copyrights
@@ -192,8 +192,8 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Read: Hal Abelson, Ken Ledeen, and Harry Lewis, "Secret Bits: How Codes Become Unbreakable," Chapter 5 of *Blown to Bits: Your Life, Liberty, and Happiness after the Digital Explosion* (Upper Saddle River, NJ: Addison-Wesley, 2008)
 - Watch: [Cryptography: The Science of Making and Breaking Codes](https://www.youtube.com/watch?v=-yFZGF8FHSg)
 - Code:
-  - Encode Caesar Cipher
-  - Decode Caesar Cipher
+  - Encoding a Caesar Cipher
+  - Decoding a Caesar Cipher
 
 ### Week Seven: Abstraction II
 
@@ -208,7 +208,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 #### February 21 - Artificial Intelligence
 *Coding assignment 5 due at the beginning of class*
 
-- Read: Alan Turing (October 1950), "Computing Machinery and Intelligence", *Mind*, LIX (236): 433–460, doi:10.1093/mind/LIX.236.433
+- Read: Alan Turing (October 1950), "Computing Machinery and Intelligence", *Mind*, LIX (236): 433–460, [doi:10.1093/mind/LIX.236.433](https://academic.oup.com/mind/article/LIX/236/433/986238)
 - Watch: [Friends Forever: Can an Artist and a Robot Maintain a Friendship?](https://www.youtube.com/watch?v=UsSYWmLm02U)
 - Code:
   - Compliment Generator
@@ -285,7 +285,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 #### April 2 - Storing Data on "the Cloud"
 
 - Read: Claire L. Evans, "Communities," Chapter 8 of Broad Brand: The Untold Story of the Women Who Made the Internet (New York: Portfolio/Penguin, 2018)
-Watch: Early Days of the WELL
+Watch: [Early Days of the WELL](https://archive.org/details/HowardRheingold-EarlyDaysOfTheWELL810)
 - Code:
   - CloudVariables RPC
 
@@ -310,7 +310,7 @@ Watch: Early Days of the WELL
 *Guest Lecturer: Prof. Mickey Casad, Senior Lecturer in Cinema and Media Arts and Associate Director of the Vanderbilt Center for Digital Humanities*
 
 - Read: Claire L. Evans, "The Girl Gamers," Chapter 13 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
-Computing
+
 - Watch: [Big Data + Old History](https://www.youtube.com/watch?v=tp4y-_VoXdA)
 - Code:
   - Querying Wikidata
