@@ -23,15 +23,15 @@ A mirror copy of the syllabus is available on [Github](https://github.com/Cliffo
 - Lindsey Kendall, Grader
   - Email: lindsey.s.kendall.1@vanderbilt.edu
   - Office: 341 Featheringill Hall
-  - Office Hours: 10 - 12 p.m. on Mondays and Wednesdays
+  - Office Hours: TBD
 
 ## Meetings
 
-- T/R 8:10 a.m. - 9:25 a.m. in Featheringill Hall 136
+- T/R 9:35 a.m. - 10:50 a.m. in Stevenson 5 (Science & Engineering) 326
 
 ## Required Texts
 
-- Abelson, Hal, Ken Ledeen, and Harry Lewis. [Blown to Bits: Your Life, Liberty, and Happiness After the Digital Explosion](http://www.bitsbook.com/). Upper Saddle River, NJ: Addison-Wesley Professional, 2008.^[This book is freely available online. A new edition is forthcoming later in 2018. I recommend using the online edition rather than buying the current print edition.]
+- Abelson, Hal, Ken Ledeen, and Harry Lewis. [Blown to Bits: Your Life, Liberty, and Happiness After the Digital Explosion](http://www.bitsbook.com/), 2nd edition. Upper Saddle River, NJ: Addison-Wesley Professional, 2019.
 - Erwig, Martin. *Once Upon an Algorithm: How Stories Explain Computing*. Cambridge: The MIT Press, 2017.
 - Evans, Claire. *Broad Brand: The Untold Story of the Women Who Made the Internet*. New York: Portfolio/Penguin, 2018.
 
@@ -57,7 +57,7 @@ This class respects and welcomes students of all backgrounds, identities, and ab
 
 ### Absences
 
-Class participation is an important component of this course and more than two unexcused absences may negatively impact your grade. Please consult me in advance if you need to miss more than two class sessions.
+Class participation is an important component of this course and more than two absences may negatively impact your grade. Please consult me in advance if you need to miss more than two class sessions.
 
 ### Academic Integrity
 
@@ -69,7 +69,7 @@ The [Family Educational Rights and Privacy Act](https://www2.ed.gov/policy/gen/g
 
 ### Technology
 
-We will be using a free and open-source visual programing language called [NetsBlox](https://netsblox.org/) during the course. The sole prerequisite for using NetsBlox is a modern web browser with JavaScript enabled. You will need to bring a computing device to class to follow along with classroom exercises––any brand of laptop or a tablet should be fine. If you do not have a personal laptop or tablet at your disposal, please consult me and we will find alternative arrangements.
+We will be using a free and open-source visual programing language called [NetsBlox](https://netsblox.org/) during the course. The sole prerequisite for using NetsBlox is a modern web browser with JavaScript enabled. You will need to bring a computing device to class to follow along with classroom exercises–any brand of laptop or a tablet should be fine. If you do not have a personal laptop or tablet at your disposal, please consult me and we will find alternative arrangements.
 
 ## Disclaimer
 
@@ -79,45 +79,55 @@ This syllabus provides a general outline for the course. Given that this is the 
 
 ### Week One: Introduction
 
-#### August 23 - What is Computational Thinking?
+#### January 8 - What is Computational Thinking?
 
 - Read: Hal Abelson, Ken Ledeen, and Harry Lewis, "Digital Explosion," Chapter 1 of *Blown to Bits: Your Life, Liberty, and Happiness after the Digital Explosion* (Upper Saddle River, NJ: Addison-Wesley, 2008)
 - Watch: [Computational Thinking: A Digital Age Skill for Everyone](https://www.youtube.com/watch?v=VFcUgSYyRPg)
 - Code:
-  - Draw a square
-  - Draw a triangle
-  - Draw a circle
+  - Draw a Square
+  - Draw a Triangle
+  - Draw a Circle
+
+#### January 10 - An Introduction to NetsBlox
+*Guest Lecturer: Professor Akos Ledeczi, Professor of Computer Engineering, School of Engineering*
+
+- Read: Claire L. Evans, "A Computer Wanted," Chapter 1 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
+- Watch: [Ada Lovelace: Great Minds](https://www.youtube.com/watch?v=uBbVbqRvqTM)
+- Code:
+  - Pen Spirals
+  - Nested Squares
+  - Nested Polygons
 
 ### Week Two: Programming Basics
 
-#### August 28 - Introduction to Programming
+#### January 15 - Introduction to Programming
 
 - Read: Martin Erwig, "A Path to Computation," Chapter 1 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [The Beauty & Joy of Computing | Dan Garcia | TEDxBerkeley](https://www.youtube.com/watch?v=ozRovyDwKEM)
 - Code:
   - Click Alzonzo
-  - 'Hansel and Gretel' Game
+  - Hansel and Gretel
 
-#### August 30 - Predicates and Branching
+#### January 17 - Predicates and Branching
 
 - Read: Martin Erwig, "Walk the Walk: When Computation Really Happens," Chapter 2 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [Basic Logic Gates: Explained! (in Minecraft)](https://www.youtube.com/watch?v=9EY_XoEImjM)
 - Code:
-  - Hello Snap!
+  - Hello NetsBlox!
   - FizzBuzz
 
 ### Week Three: Abstraction I
 
-#### September 4 - Control Structures and Variables
+#### January 22 - Control Structures and Variables
 
 - Read: "Weather, Rinse, Repeat," Chapter 10 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [What's an Algorithm?](https://www.youtube.com/watch?v=6hfOvs8pY1k&t=)
 - Code:
-  - Incrementing and Decrementing Variables
+  - Variables
   - Reporter Blocks
   - Palindrome Checker
 
-#### September 6 - Privacy and Information Hiding
+#### January 24 - Privacy and Information Hiding
 *Guest Lecturer: Melissa Mallon, Director of the Peabody Library and Director of Teaching and Learning, Vanderbilt University Library*
 
 *Coding assignment 1 due at the beginning of class*
@@ -125,20 +135,20 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Read: Hal Abelson, Ken Ledeen, and Harry Lewis, "Naked in the Sunlight: Privacy Lost, Privacy Abandoned ," Chapter 2 of *Blown to Bits: Your Life, Liberty, and Happiness after the Digital Explosion* (Upper Saddle River, NJ: Addison-Wesley, 2008)
 - Watch: [Do Digital Home Devices Put your Privacy at Risk?](https://www.youtube.com/watch?v=3QzmmeTEk30)
 - Code:
-  - Global Variables and Sprite Variables (Quantum Time Distortion)
-  - Make Your Own Block (Say Hello; Square; Draw a Shape; Day of the Week)
-  - Parameters and Arguments (Palindrome Checker *revisited*)
+  - 'Say Hello' Function
+  - 'Draw a Shape' Function
+  - 'Day of the Week' Function
 
 ### Week Four: Data Structures I
 
-#### September 11 - Representations
+#### January 29 - Representations
 
 - Read: Martin Erwig, "The Mystery of Signs," Chapter 3 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [Binary Numbers and Base Systems as Fast as Possible](https://www.youtube.com/watch?v=LpuPe81bc2w)
 - Code:
   - Convert Decimal to Binary (and back)
 
-#### September 13 - Lists
+#### January 31 - Lists
 *Coding assignment 2 due at the beginning of class*
 
 - Read: Martin Erwig, "The Detective's Notebook," Chapter 4 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
@@ -149,15 +159,15 @@ This syllabus provides a general outline for the course. Given that this is the 
 
 ### Week Five: Data Structures II
 
-#### September 18 - Data Types
+#### February 5 - Data Types
 
 - Read: Martin Erwig, "The Magical Type," Chapter 14 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [Data Types](https://www.youtube.com/watch?v=5wx3EWjOqnc)
 - Code:
-  - Geospatial Coordinates
+  - Storing, Editing, and Retrieving Data in Lists
   - Structured Data Library
 
-#### September 20 - Copyrights
+#### February 7 - Copyrights
 *Coding assignment 3 due at the beginning of class*
 
 - Read: Hal Abelson, Ken Ledeen, and Harry Lewis, "Balance Toppled," Chapter 6 of *Blown to Bits: Your Life, Liberty, and Happiness after the Digital Explosion* (Upper Saddle River, NJ: Addison-Wesley, 2008)
@@ -168,7 +178,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 
 ### Week Six: Games and Secrets
 
-#### September 25 - Events and Game Loops
+#### February 12 - Events and Game Loops
 
 - Read: Claire L. Evans, "The Longest Cave," Chapter 6 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Event-Driven Programming](https://www.youtube.com/watch?v=fpphnWwMrug&t=22s)
@@ -176,86 +186,76 @@ This syllabus provides a general outline for the course. Given that this is the 
   - Platform Game
   - Artwork Puzzle
 
-#### September 27 - Digital Secrets
+#### February 14 - Digital Secrets
 *Coding assignment 4 due at the beginning of class*
 
 - Read: Hal Abelson, Ken Ledeen, and Harry Lewis, "Secret Bits: How Codes Become Unbreakable," Chapter 5 of *Blown to Bits: Your Life, Liberty, and Happiness after the Digital Explosion* (Upper Saddle River, NJ: Addison-Wesley, 2008)
 - Watch: [Cryptography: The Science of Making and Breaking Codes](https://www.youtube.com/watch?v=-yFZGF8FHSg)
 - Code:
-  - Caesar Cipher
+  - Encode Caesar Cipher
+  - Decode Caesar Cipher
 
 ### Week Seven: Abstraction II
 
-#### October 2 - Higher-Order Functions
+#### February 19 - Higher-Order Functions
 
 - Read: Claire L. Evans, "The Tower of Babel," Chapter 4 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Who is Grace Hopper?](https://www.youtube.com/watch?v=Fg82iV-L8ZY)
 - Code:
   - Fractal Tree
-  - Gray scale Function
-  - Creating Bar Graphs
+  - Grayscale Function
 
-#### October 4 - Artificial Intelligence
+#### February 21 - Artificial Intelligence
 *Coding assignment 5 due at the beginning of class*
 
 - Read: Alan Turing (October 1950), "Computing Machinery and Intelligence", *Mind*, LIX (236): 433–460, doi:10.1093/mind/LIX.236.433
 - Watch: [Friends Forever: Can an Artist and a Robot Maintain a Friendship?](https://www.youtube.com/watch?v=UsSYWmLm02U)
 - Code:
-  - Insult Generator
+  - Compliment Generator
   - Sudoku Solver
 
-### Week Eight: Messages and Review
+### Week Eight: Midterm
 
-#### October 9 - Message Passing
+#### February 26 - Review
 
-- Read: Claire L. Evans, "Resource One," Chapter 7 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
-- Watch: [Project One](https://archive.org/details/cbpf_000052) [N.B. Please watch the first five minutes and 46:00 to 48:30.]
-- Code:
-  - "Hello, World" (Peer-to-Peer)
-  - Dice App
+#### February 28 - Midterm Exam
 
-#### October 11 - Review
-
-### Week Nine: Midterm
-
-#### October 16 - Midterm Exam
-
-#### October 18 - No Class - Fall Break
+### Week Nine: Spring Break
 
 ### Week Ten: Algorithms I
 
-#### October 23 - Searching
+#### March 12 - Searching
 
 - Read: Martin Erwig, "The Search for the Perfect Data Structure," Chapter 5 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [How Search Engines Treat Data](https://www.youtube.com/watch?v=vrjAIBgxm_w)
 - Code:
+  - B-Trees
   - Linear Search
   - Binary Search
-  - B-Trees
 
-#### October 25 - Sorting
+#### March 14 - Sorting
 
 - Read: Martin Erwig, "Sorting Out Sorting," Chapter 6 of *Once Upon an Algorithm: How Stories Explain Computing"* (Cambridge: MIT Press, 2017)
 - Watch: [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
 - Code:
-  - BogoSort
-  - Bubble Sort
-  - Sequential Sort
+  - Bogosort
+  - Selection Sort
   - Insertion Sort
+  - Bubble Sort
+  - Quicksort
+  - Merge Sort
 
 ### Week Eleven: Distributed Computing I
 
-#### October 30 - Client-Server Applications
-*Guest Lecturer: Professor Akos Ledeczi, Professor of Computer Engineering, School of Engineering*
+#### March 19 - Client-Server Applications
 
-- Read: Claire L. Evans, "Communities," Chapter 8 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
-- Watch: [Early Days of the WELL](https://www.youtube.com/watch?v=-5XRrza88v4)
+- Read: Claire L. Evans, "Resource One," Chapter 7 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
+- Watch: [Project One](https://archive.org/details/cbpf_000052) [N.B. Please watch the first five minutes and 46:00 to 48:30.]
 - Code:
+  - "Hello, Worlds" (Peer-to-Peer)
   - Chatroom
-  - Whiteboard
 
-#### November 1 - Internet Censorship and Security
-*Guest Lecturer: Professor Akos Ledeczi, Professor of Computer Engineering, School of Engineering*
+#### March 21 - Internet Censorship and Security
 
 - Read: Hal Abelson, Ken Ledeen, and Harry Lewis, "You Can’t Say That on the Internet," Chapter 7 of *Blown to Bits: Your Life, Liberty, and Happiness after the Digital Explosion* (Upper Saddle River, NJ: Addison-Wesley, 2008)
 - Watch: [What Is A Man-in-the-Middle Attack?](https://www.youtube.com/watch?v=DgqID9k83oQ)
@@ -264,17 +264,15 @@ This syllabus provides a general outline for the course. Given that this is the 
 
 ### Week Twelve: Algorithms II
 
-#### November 6 - Recursion
+#### March 26 - Recursion
 
   - Read: Martin Erwig, "A Stich in Time Computers Fine," Chapter 12 of *Once Upon an Algorithm: How Stories Explain Computing"* (Cambridge: MIT Press, 2017)
   - Watch: [What on Earth is Recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
   - Code:
-    - Trees in a Forest
     - Computing Factorials
-    - QuickSort
-    - Towers of Hanoi
+    - Trees in a Forest
 
-#### November 8 - Efficiency and Limits of Computing
+#### March 28 - Efficiency and Limits of Computing
 
   - Read: "Mission Intractable," Chapter 7 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
   - Watch: [P vs NP on TV](https://www.youtube.com/watch?v=dJUEkjxylBw)
@@ -284,44 +282,41 @@ This syllabus provides a general outline for the course. Given that this is the 
 
 ### Week Thirteen: Distributed Computing II
 
-#### November 13 - Remote Procedure Calls
+#### April 2 - Storing Data on "the Cloud"
+
+- Read: Claire L. Evans, "Communities," Chapter 8 of Broad Brand: The Untold Story of the Women Who Made the Internet (New York: Portfolio/Penguin, 2018)
+Watch: Early Days of the WELL
+- Code:
+  - CloudVariables RPC
+
+#### April 4 - Remote Procedure Calls
 
 - Read: Claire L. Evans, "Hypertext," Chapter 10 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
 - Code:
-  - Google Maps
-  - Google Trends
-  - Google Weather
-
-#### November 15 - Databases
-
-- Read: Mana Takahashi and Shoko Azuma, *The Manga Guide to Databases*, (San Francisco, CA: No Starch Press, 2009), Chapter One.
-- Watch: [What is a Database?](https://www.youtube.com/watch?v=t8jgX1f8kc4)
-- Code:
-  - Key-Value Stores
+  - RPC Demonstration and Exposition
 
 ### Week Fourteen: Next Steps
 
-#### November 27 - Computational Thinking Beyond *NetsBlox*
-Guest Lecturer: Prof. Julie Johnson, Associate Professor of the Practice of Computer Science and Director of Undergraduate Studies in Computer Science
+#### April 9 - Computational Thinking Beyond *NetsBlox*
+*Guest Lecturer: Prof. Julie Johnson, Associate Professor of the Practice of Computer Science and Director of Undergraduate Studies in Computer Science*
 
 - Read: Martin Erwig, "A Bird's Eye View of Abstracting from Details," Chapter 15 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [The Art of Abstraction](https://www.youtube.com/watch?v=p7nGcY73epw)
 - Code:
   - Javascript in NetsBlox
 
-#### November 29 - Digital Humanities
-Guest Lecturer: Prof. Mickey Casad, Senior Lecturer in Cinema and Media Arts and Associate Director of the Vanderbilt Center for Digital Humanities
+#### April 11 - Digital Humanities
+*Guest Lecturer: Prof. Mickey Casad, Senior Lecturer in Cinema and Media Arts and Associate Director of the Vanderbilt Center for Digital Humanities*
 
-- Read: Edward Vanhoutte, [The Gates of Hell: History and Definition of Digital | Humanities | Computing](http://blogs.ucl.ac.uk/definingdh/files/2013/10/Chapter-6_EV.pdf), Chapter 6 of *Defining Digital Humanities: A Reader*, ed. Melissa Terras, Julianne Nyhan, and Edward Vanhoutte (Surrey: Ashgate, 2013)
+- Read: Claire L. Evans, "The Girl Gamers," Chapter 13 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 Computing
 - Watch: [Big Data + Old History](https://www.youtube.com/watch?v=tp4y-_VoXdA)
 - Code:
-  - Mapping Berlin
   - Querying Wikidata
 
-### Week Fifteen: Project Demos
+### Week Fifteen: Project Demonstrations
 
-#### December 4 - Student Projects, Part One
+#### April 16 - Student Projects, Part One
 
-#### December 6 - Student Projects, Part Two
+#### April 18 - Student Projects, Part Two
