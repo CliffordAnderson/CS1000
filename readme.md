@@ -125,7 +125,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Code:
   - Variables
   - Reporter Blocks
-  - Palindrome Checker
+  - Palindrome Validator
 
 #### January 24 - Privacy and Information Hiding
 *Guest Lecturer: Melissa Mallon, Director of the Peabody Library and Director of Teaching and Learning, Vanderbilt University Library*
@@ -294,7 +294,7 @@ Watch: [Early Days of the WELL](https://archive.org/details/HowardRheingold-Earl
 - Read: Claire L. Evans, "Hypertext," Chapter 10 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
 - Code:
-  - RPC Demonstration and Exposition
+  - RPC Exposition
 
 ### Week Fourteen: Next Steps
 
@@ -305,15 +305,17 @@ Watch: [Early Days of the WELL](https://archive.org/details/HowardRheingold-Earl
 - Watch: [The Art of Abstraction](https://www.youtube.com/watch?v=p7nGcY73epw)
 - Code:
   - Javascript in NetsBlox
+  - Validating an Email Address
 
 #### April 11 - Digital Humanities
-*Guest Lecturer: Prof. Mickey Casad, Senior Lecturer in Cinema and Media Arts and Associate Director of the Vanderbilt Center for Digital Humanities*
+*Guest Lecturer: TBD*
 
 - Read: Claire L. Evans, "The Girl Gamers," Chapter 13 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 
 - Watch: [Big Data + Old History](https://www.youtube.com/watch?v=tp4y-_VoXdA)
 - Code:
   - Querying Wikidata
+  - Building New RPCs
 
 ### Week Fifteen: Project Demonstrations
 
