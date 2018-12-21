@@ -73,7 +73,7 @@ We will be using a free and open-source visual programing language called [NetsB
 
 ## Disclaimer
 
-This syllabus provides a general outline for the course. Given that this is the first offering of this course at Vanderbilt University, the readings and coding assignments are subject to change. If I have to make substitutions, I will update the syllabus and communicate those changes during class.
+This syllabus provides a general outline for the course. The readings and coding assignments are subject to change. If I have to make substitutions, I will update the syllabus and communicate those changes during class.
 
 ## Class Schedule
 
@@ -100,7 +100,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 
 ### Week Two: Programming Basics
 
-#### January 15 - Introduction to Programming
+#### January 15 - What are Algorithms?
 
 - Read: Martin Erwig, "A Path to Computation," Chapter 1 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [The Beauty & Joy of Computing | Dan Garcia | TEDxBerkeley](https://www.youtube.com/watch?v=ozRovyDwKEM)
@@ -123,7 +123,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Read: "Weather, Rinse, Repeat," Chapter 10 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [What's an Algorithm?](https://www.youtube.com/watch?v=6hfOvs8pY1k&t=)
 - Code:
-  - Variables
+  - Changing Variables
   - Reporter Blocks
   - Palindrome Validator
 
@@ -154,7 +154,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Read: Martin Erwig, "The Detective's Notebook," Chapter 4 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [Lists](https://www.youtube.com/watch?v=KUQSgUMtyv0)
 - Code:
-  - Distinct Values
+  - Distinct Values in a List
   - Filtering Google Trends
 
 ### Week Five: Data Structures II
@@ -285,7 +285,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 #### April 2 - Storing Data on "the Cloud"
 
 - Read: Claire L. Evans, "Communities," Chapter 8 of Broad Brand: The Untold Story of the Women Who Made the Internet (New York: Portfolio/Penguin, 2018)
-Watch: [Early Days of the WELL](https://archive.org/details/HowardRheingold-EarlyDaysOfTheWELL810)
+- Watch: [Early Days of the WELL](https://archive.org/details/HowardRheingold-EarlyDaysOfTheWELL810)
 - Code:
   - CloudVariables RPC
 
@@ -311,7 +311,6 @@ Watch: [Early Days of the WELL](https://archive.org/details/HowardRheingold-Earl
 *Guest Lecturer: TBD*
 
 - Read: Claire L. Evans, "The Girl Gamers," Chapter 13 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
-
 - Watch: [Big Data + Old History](https://www.youtube.com/watch?v=tp4y-_VoXdA)
 - Code:
   - Querying Wikidata
