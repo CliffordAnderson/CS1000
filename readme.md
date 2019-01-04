@@ -187,6 +187,8 @@ This syllabus provides a general outline for the course. The readings and coding
   - Artwork Puzzle
 
 #### February 14 - Digital Secrets
+*Guest Lecturer: Derek Bruff, Director of the Vanderbilt University Center for Teaching and Principal Senior Lecturer of Mathematics*
+
 *Coding assignment 4 due at the beginning of class*
 
 - Read: Hal Abelson, Ken Ledeen, and Harry Lewis, "Secret Bits: How Codes Become Unbreakable," Chapter 5 of *Blown to Bits: Your Life, Liberty, and Happiness after the Digital Explosion* (Upper Saddle River, NJ: Addison-Wesley, 2008)
