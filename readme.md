@@ -310,7 +310,7 @@ This syllabus provides a general outline for the course. The readings and coding
   - Validating an Email Address
 
 #### April 11 - Digital Humanities
-*Guest Lecturer: TBD*
+*Guest Lecturer: Prof. Mickey Casad, Senior Lecturer in Cinema and Media Arts and Associate Director of the Vanderbilt Center for Digital Humanities*
 
 - Read: Claire L. Evans, "The Girl Gamers," Chapter 13 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Big Data + Old History](https://www.youtube.com/watch?v=tp4y-_VoXdA)
