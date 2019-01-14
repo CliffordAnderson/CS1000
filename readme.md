@@ -23,7 +23,7 @@ A mirror copy of the syllabus is available on [Github](https://github.com/Cliffo
 - Lindsey Kendall, Grader
   - Email: lindsey.s.kendall.1@vanderbilt.edu
   - Office: 341 Featheringill Hall
-  - Office Hours: TBD
+  - Office Hours: 10 a.m. - 12 p.m. on Mondays and Wednesdays
 
 ## Meetings
 
@@ -31,7 +31,7 @@ A mirror copy of the syllabus is available on [Github](https://github.com/Cliffo
 
 ## Required Texts
 
-- Abelson, Hal, Ken Ledeen, and Harry Lewis. [Blown to Bits: Your Life, Liberty, and Happiness After the Digital Explosion](http://www.bitsbook.com/), 2nd edition. Upper Saddle River, NJ: Addison-Wesley Professional, 2019.
+- Abelson, Hal, Ken Ledeen, and Harry Lewis. [Blown to Bits: Your Life, Liberty, and Happiness After the Digital Explosion](http://www.bitsbook.com/), 1st edition. Upper Saddle River, NJ: Addison-Wesley Professional, 2008.
 - Erwig, Martin. *Once Upon an Algorithm: How Stories Explain Computing*. Cambridge: The MIT Press, 2017.
 - Evans, Claire. *Broad Brand: The Untold Story of the Women Who Made the Internet*. New York: Portfolio/Penguin, 2018.
 
@@ -105,6 +105,7 @@ This syllabus provides a general outline for the course. The readings and coding
 - Read: Martin Erwig, "A Path to Computation," Chapter 1 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [The Beauty & Joy of Computing | Dan Garcia | TEDxBerkeley](https://www.youtube.com/watch?v=ozRovyDwKEM)
 - Code:
+  - Digital Fidget Spinner
   - Click Alzonzo
   - Hansel and Gretel
 
