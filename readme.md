@@ -105,16 +105,16 @@ This syllabus provides a general outline for the course. The readings and coding
 - Read: Martin Erwig, "A Path to Computation," Chapter 1 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [The Beauty & Joy of Computing | Dan Garcia | TEDxBerkeley](https://www.youtube.com/watch?v=ozRovyDwKEM)
 - Code:
-  - Digital Fidget Spinner
-  - Click Alzonzo
   - Hansel and Gretel
+  - Fidget Spinner
+  - Click Alzonzo
 
 #### January 17 - Predicates and Branching
 
 - Read: Martin Erwig, "Walk the Walk: When Computation Really Happens," Chapter 2 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [Basic Logic Gates: Explained! (in Minecraft)](https://www.youtube.com/watch?v=9EY_XoEImjM)
 - Code:
-  - Hello NetsBlox!
+  - Boolean Operators
   - FizzBuzz
 
 ### Week Three: Abstraction I
@@ -124,8 +124,8 @@ This syllabus provides a general outline for the course. The readings and coding
 - Read: "Weather, Rinse, Repeat," Chapter 10 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [What's an Algorithm?](https://www.youtube.com/watch?v=6hfOvs8pY1k&t=)
 - Code:
-  - Changing Variables
-  - Reporter Blocks
+  - Iterators
+  - Hello, NetsBlox!
   - Palindrome Validator
 
 #### January 24 - Privacy and Information Hiding
