@@ -156,7 +156,7 @@ This syllabus provides a general outline for the course. The readings and coding
 - Watch: [Lists](https://www.youtube.com/watch?v=KUQSgUMtyv0)
 - Code:
   - Distinct Values in a List
-  - Filtering Google Trends
+  - Artworks from the Metropolitan Museum
 
 ### Week Five: Data Structures II
 
