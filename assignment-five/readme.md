@@ -1,6 +1,8 @@
-# Assignment Five: Show Top Trend Internationally
+# Assignment Five: To Lowercase
 
-The goal of this assignment is to create a function takes a two digit country code and returns the top trend (from [Google Trends](https://trends.google.com/trends/?geo=US)) for that country. In the [project file](top-trend.xml) in this folder, you will find a function called `top trend in _` that accepts a two digit country code (from a dropdown list). Drag it on the scripting area of NetsBlox, right-click to edit the custom block, and you will find everything you need to get started.
+The goal of this assignment is to create a function that converts any string to lower case. To write this function, you will need to make use of the [ASCII code](https://www.ascii-code.com/). I recommend that you spend some time looking at the relation between uppercase letters and lowercase letters in the code before you get started with the exercise.
+
+In the [project file](to-lower-case.xml) in this folder, you will find a function called `to lowercase _` that accepts any string and converts any uppercase letters to lowercase, returning a string with all lower case letters. Drag the file onto the scripting area of NetsBlox, right-click to edit the custom block, and you will find everything you need to get started.
 
 Here are the blocks for the problem, jumbled up inside a function:
 
@@ -8,7 +10,7 @@ Here are the blocks for the problem, jumbled up inside a function:
 
 Please rearrange the blocks so that your function works as expected. If you want to, you can select alternative blocks. But these blocks are all you need to solve the problem.
 
-You should make sure that your function passes these tests before submitting your work on Brightspace. Note that the trends may vary depending on the day.
+You should make sure that your function passes these tests before submitting your work on Brightspace.
 
 ![Test 1](test-1.png)
 
@@ -16,4 +18,6 @@ You should make sure that your function passes these tests before submitting you
 
 ![Test 3](test-3.png)
 
-This function uses the "Structured data" library from Netsblox, which can be imported from the "Libraries" list. The `value _ in _` function from the "Structured data" library allows you to select a value from a list of lists by providing its key.
+![Test 4](test-3.png)
+
+![Test 5](test-3.png)
