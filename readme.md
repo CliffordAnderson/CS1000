@@ -205,8 +205,8 @@ This syllabus provides a general outline for the course. The readings and coding
 - Read: Claire L. Evans, "The Tower of Babel," Chapter 4 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Who is Grace Hopper?](https://www.youtube.com/watch?v=Fg82iV-L8ZY)
 - Code:
-  - Fractal Tree
   - Grayscale Function
+  - Caesar Cipher, *Revisted*
 
 #### February 21 - Artificial Intelligence
 *Coding assignment 5 due at the beginning of class*
