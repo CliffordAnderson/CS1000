@@ -18,6 +18,6 @@ You should make sure that your function passes these tests before submitting you
 
 ![Test 3](test-3.png)
 
-![Test 4](test-3.png)
+![Test 4](test-4.png)
 
-![Test 5](test-3.png)
+![Test 5](test-5.png)
