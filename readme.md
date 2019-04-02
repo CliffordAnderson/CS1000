@@ -287,7 +287,7 @@ This syllabus provides a general outline for the course. The readings and coding
 
 #### April 2 - Storing Data on "the Cloud"
 
-- Read: Claire L. Evans, "Communities," Chapter 8 of Broad Brand: The Untold Story of the Women Who Made the Internet (New York: Portfolio/Penguin, 2018)
+- Read: Claire L. Evans, "Communities," Chapter 9 of Broad Brand: The Untold Story of the Women Who Made the Internet (New York: Portfolio/Penguin, 2018)
 - Watch: [Early Days of the WELL](https://archive.org/details/HowardRheingold-EarlyDaysOfTheWELL810)
 - Code:
   - CloudVariables RPC
