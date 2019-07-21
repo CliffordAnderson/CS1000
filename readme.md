@@ -27,11 +27,11 @@ A mirror copy of the syllabus is available on [Github](https://github.com/Cliffo
 
 ## Meetings
 
-- T/R 9:35 a.m. - 10:50 a.m. in Stevenson 5 (Science & Engineering) 326
+- T/R 9:35 a.m. - 10:50 a.m. in [Olin Hall 135](https://wp0.vanderbilt.edu/map/?s=Olin+Hall)
 
 ## Required Texts
 
-- Abelson, Hal, Ken Ledeen, and Harry Lewis. [Blown to Bits: Your Life, Liberty, and Happiness After the Digital Explosion](http://www.bitsbook.com/), 1st edition. Upper Saddle River, NJ: Addison-Wesley Professional, 2008.
+- Abelson, Hal, Ken Ledeen, and Harry Lewis. Blown to Bits: Your Life, Liberty, and Happiness After the Digital Explosion, 2nd edition. Upper Saddle River, NJ: Addison-Wesley Professional, 2019.
 - Erwig, Martin. *Once Upon an Algorithm: How Stories Explain Computing*. Cambridge: The MIT Press, 2017.
 - Evans, Claire. *Broad Brand: The Untold Story of the Women Who Made the Internet*. New York: Portfolio/Penguin, 2018.
 
