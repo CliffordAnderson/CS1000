@@ -119,7 +119,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 #### September 5 - Privacy and Information Hiding
 *Coding assignment 1 due at the beginning of class*
 
-- Read: digital privacy
+- Read: Hannah Fry, "Data," Chapter 2 of *Hello World: Being Human in the Age of Algorithms* (New York: Norton, 2018), pp. 25-47
 - Watch: [Do Digital Home Devices Put your Privacy at Risk?](https://www.youtube.com/watch?v=3QzmmeTEk30)
 - Code:
   - Global Variables and Sprite Variables (Quantum Time Distortion)
@@ -157,7 +157,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 #### September 19 - Copyrights
 *Coding assignment 3 due at the beginning of class*
 
-- Read: copyright
+- Read:  Andres Guadamuz, "[Artificial Intelligence and Copyright](https://www.wipo.int/export/sites/www/wipo_magazine/en/pdf/2017/wipo_pub_121_2017_05.pdf)," WIPO Magazine (October 2017): 15-19
 - Watch: [Copying Is Not Theft](https://www.youtube.com/watch?v=IeTybKL1pM4)
 - Code:
   - Pixabay Gallery
@@ -176,7 +176,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 #### September 26 - Digital Secrets
 *Coding assignment 4 due at the beginning of class*
 
-- Read: cryptography
+- Read: Mitani, Masaaki, Shinichi Sato, and Idero Hinoki. "The Foundations of Encryption," Chapter One of *The Manga Guide to Cryptography*. No Starch Press, 2018.
 - Watch: [Cryptography: The Science of Making and Breaking Codes](https://www.youtube.com/watch?v=-yFZGF8FHSg)
 - Code:
   - Caesar Cipher
@@ -250,7 +250,8 @@ This syllabus provides a general outline for the course. Given that this is the 
   - Whiteboard
 
 #### October 31 - Internet Censorship and Security
-- Read: article 230
+
+- Read: MacKinnon, Rebecca. "[Democratic Censorship](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=868682)," Chapter 6 of *Consent of the Networked: The Worldwide Struggle For Internet Freedom*, Basic Books, 2012.
 - Watch: [What Is A Man-in-the-Middle Attack?](https://www.youtube.com/watch?v=DgqID9k83oQ)
 - Code:
   - Person-in-the-Middle Attack
@@ -258,24 +259,27 @@ This syllabus provides a general outline for the course. Given that this is the 
 ### Week Twelve: Algorithms II
 
 #### November 5 - Recursion
-  - Read: Martin Erwig, "A Stich in Time Computers Fine," Chapter 12 of *Once Upon an Algorithm: How Stories Explain Computing"* (Cambridge: MIT Press, 2017)
-  - Watch: [What on Earth is Recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
-  - Code:
-    - Trees in a Forest
-    - Computing Factorials
-    - QuickSort
-    - Towers of Hanoi
+ 
+- Read: Martin Erwig, "A Stich in Time Computers Fine," Chapter 12 of *Once Upon an Algorithm: How Stories Explain Computing"* (Cambridge: MIT Press, 2017)
+- Watch: [What on Earth is Recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
+- Code:
+  - Trees in a Forest
+  - Computing Factorials
+  - QuickSort
+  - Towers of Hanoi
 
 #### November 7 - Efficiency and Limits of Computing
-  - Read: "Mission Intractable," Chapter 7 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
-  - Watch: [P vs NP on TV](https://www.youtube.com/watch?v=dJUEkjxylBw)
-  - Code:
-    - Prime Number Factorization
-    - Knapsack Problem
+  
+- Read: "Mission Intractable," Chapter 7 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
+- Watch: [P vs NP on TV](https://www.youtube.com/watch?v=dJUEkjxylBw)
+- Code:
+  - Prime Number Factorization
+  - Knapsack Problem
 
 ### Week Thirteen: Distributed Computing II
 
 #### November 12 - Remote Procedure Calls
+
 - Read: Claire L. Evans, "Hypertext," Chapter 10 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
 - Code:
@@ -284,6 +288,7 @@ This syllabus provides a general outline for the course. Given that this is the 
   - Google Weather
 
 #### November 14 - Databases
+
 - Read: Mana Takahashi and Shoko Azuma, *The Manga Guide to Databases*, (San Francisco, CA: No Starch Press, 2009), Chapter One.
 - Watch: [What is a Database?](https://www.youtube.com/watch?v=t8jgX1f8kc4)
 - Code:
@@ -292,12 +297,14 @@ This syllabus provides a general outline for the course. Given that this is the 
 ### Week Fourteen: Next Steps
 
 #### November 19 - Computational Thinking Beyond *NetsBlox*
+
 - Read: Martin Erwig, "A Bird's Eye View of Abstracting from Details," Chapter 15 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [The Art of Abstraction](https://www.youtube.com/watch?v=p7nGcY73epw)
 - Code:
   - Javascript in NetsBlox
 
 #### November 21 - Digital Humanities
+
 - Read: Edward Vanhoutte, [The Gates of Hell: History and Definition of Digital | Humanities | Computing](http://blogs.ucl.ac.uk/definingdh/files/2013/10/Chapter-6_EV.pdf), Chapter 6 of *Defining Digital Humanities: A Reader*, ed. Melissa Terras, Julianne Nyhan, and Edward Vanhoutte (Surrey: Ashgate, 2013)
 Computing
 - Watch: [Big Data + Old History](https://www.youtube.com/watch?v=tp4y-_VoXdA)
