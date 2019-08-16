@@ -1,4 +1,4 @@
-# Syllabus of CS 1000
+# CS 1000: The Beauty and Joy of Computing
 
 This course introduces the fundamental concepts of computing including abstraction, algorithms, design, and distributed computation. The curriculum is hands-on, focusing on translating ideas into working computer programs and developing a mastery of practical computational literacy. We write our programs in [NetsBlox](https://netsblox.org/), a block-based language developed by a research team at Vanderbilt University. Along the way, we also discuss the history, ethics, and cultural impact of computing.  
 
@@ -195,7 +195,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 #### October 3 - Artificial Intelligence
 *Coding assignment 5 due at the beginning of class*
 
-- Read: Alan Turing (October 1950), "Computing Machinery and Intelligence", *Mind*, LIX (236): 433–460, doi:10.1093/mind/LIX.236.433
+- Read: Alan Turing (October 1950), "[Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238)", *Mind*, LIX (236): 433–460
 - Watch: [Friends Forever: Can an Artist and a Robot Maintain a Friendship?](https://www.youtube.com/watch?v=UsSYWmLm02U)
 - Code:
   - Compliment Generator
