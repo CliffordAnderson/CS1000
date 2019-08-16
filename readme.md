@@ -20,14 +20,14 @@ A mirror copy of the syllabus is available on [Github](https://github.com/Cliffo
   - Office Hours: 9 - 11 a.m. on Mondays or by appointment
   - Administrative Assistant: Susan D. Grider (2-2187)
 
-- , Grader
+- Will Moss, Grader
   - Email: 
   - Office: 
   - Office Hours: 
 
 ## Meetings
 
-- T/R 8:10 a.m. - 9:25 a.m. in Olin Hall 135
+- T/R 9:35 a.m. - 10:50 a.m. in Olin Hall 135
 
 ## Required Texts
 
@@ -178,7 +178,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 #### September 26 - Digital Secrets
 *Coding assignment 4 due at the beginning of class*
 
-- Read: Mitani, Masaaki, Shinichi Sato, and Idero Hinoki. "The Foundations of Encryption," Chapter One of *The Manga Guide to Cryptography*. No Starch Press, 2018.
+- Read: Mitani, Masaaki, Shinichi Sato, and Idero Hinoki. "The Foundations of Encryption," Chapter One of *The Manga Guide to Cryptography* (San Francisco: No Starch Press, 2018)
 - Watch: [Cryptography: The Science of Making and Breaking Codes](https://www.youtube.com/watch?v=-yFZGF8FHSg)
 - Code:
   - Caesar Cipher
@@ -252,7 +252,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 
 #### October 31 - Internet Censorship and Security
 
-- Read: MacKinnon, Rebecca. "[Democratic Censorship](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=868682)," Chapter 6 of *Consent of the Networked: The Worldwide Struggle For Internet Freedom*, Basic Books, 2012.
+- Read: MacKinnon, Rebecca. "[Democratic Censorship](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=868682)," Chapter 6 of *Consent of the Networked: The Worldwide Struggle For Internet Freedom* (Basic Books, 2012)
 - Watch: [What Is A Man-in-the-Middle Attack?](https://www.youtube.com/watch?v=DgqID9k83oQ)
 - Code:
   - Person-in-the-Middle Attack
@@ -288,7 +288,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 
 #### November 14 - Databases
 
-- Read: Mana Takahashi and Shoko Azuma, *The Manga Guide to Databases*, (San Francisco, CA: No Starch Press, 2009), Chapter One.
+- Read: Mana Takahashi and Shoko Azuma, "What is a Database?" Chapter 1 of *The Manga Guide to Databases* (San Francisco: No Starch Press, 2009)
 - Watch: [What is a Database?](https://www.youtube.com/watch?v=t8jgX1f8kc4)
 - Code:
   - CloudVariables RPC
@@ -309,8 +309,10 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Code:
   - Javascript in NetsBlox
   - Validating an Email Address
+  
+### Week Fifteen -  No Class - Thanksgivning
 
-### Week Fifteen: Project Demonstrations
+### Week Sixteen: Project Demonstrations
 
 #### December 3 - Student Projects, Part One
 
