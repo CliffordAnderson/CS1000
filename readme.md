@@ -80,7 +80,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 
 #### August 22 - What is Computational Thinking?
 
-- Read: Claire L. Evans, "A Computer Wanted," Chapter 1 of Broad Brand: The Untold Story of the Women Who Made the Internet (New York: Portfolio/Penguin, 2018)
+- Read: Claire L. Evans, "A Computer Wanted," Chapter 1 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Computational Thinking: A Digital Age Skill for Everyone](https://www.youtube.com/watch?v=VFcUgSYyRPg)
 - Code:
   - Draw a square
@@ -303,6 +303,7 @@ This syllabus provides a general outline for the course. Given that this is the 
   - Natural Language Processing with Parallel Dots
 
 #### November 21 - Computational Thinking Beyond *NetsBlox*
+*Final paper due at beginning of class*
 
 - Read: Martin Erwig, "A Bird's Eye View of Abstracting from Details," Chapter 15 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [The Art of Abstraction](https://www.youtube.com/watch?v=p7nGcY73epw)
