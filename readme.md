@@ -60,7 +60,7 @@ Class participation is an important component of this course and more than two u
 
 ### Academic Integrity
 
-The Vanderbilt University [Honor Code](https://www.vanderbilt.edu/student_handbook/the-honor-system/#statement-of-the-honor-code) applies to all activities in this course. If you have any questions about how the Honor Code applies to assignments this course, please consult the instructor.
+The Vanderbilt University [Honor Code](https://www.vanderbilt.edu/student_handbook/the-honor-system/#statement-of-the-honor-code) applies to all activities in this course. In terms of this course, the basic rule is this -- all work submitted in this class must be done completely on your own without assistance from any person, place or thing except the instructors or TAs for this course, the course textbook, and course lecture slides. If you have any doubts, ask your instructor for clarification, not another student (not even the teaching assistants). 
 
 ### Student Privacy
 
@@ -80,7 +80,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 
 #### August 22 - What is Computational Thinking?
 
-- Read: this syllabus
+- Read: Claire L. Evans, "A Computer Wanted," Chapter 1 of Broad Brand: The Untold Story of the Women Who Made the Internet (New York: Portfolio/Penguin, 2018)
 - Watch: [Computational Thinking: A Digital Age Skill for Everyone](https://www.youtube.com/watch?v=VFcUgSYyRPg)
 - Code:
   - Draw a square
@@ -89,20 +89,22 @@ This syllabus provides a general outline for the course. Given that this is the 
 
 ### Week Two: Programming Basics
 
-#### August 27 - Introduction to Programming
+#### August 27 - What are Algorithms?
 
 - Read: Martin Erwig, "A Path to Computation," Chapter 1 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [The Beauty & Joy of Computing | Dan Garcia | TEDxBerkeley](https://www.youtube.com/watch?v=ozRovyDwKEM)
 - Code:
+  - Hansel and Gretel
+  - Fidget Spinner
   - Click Alzonzo
-  - 'Hansel and Gretel' Game
 
 #### August 29 - Predicates and Branching
 
 - Read: Martin Erwig, "Walk the Walk: When Computation Really Happens," Chapter 2 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [Basic Logic Gates: Explained! (in Minecraft)](https://www.youtube.com/watch?v=9EY_XoEImjM)
 - Code:
-  - Hello Snap!
+  - Boolean Operators
+  - Hello, NetsBlox!
   - FizzBuzz
 
 ### Week Three: Abstraction I
@@ -112,7 +114,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Read: "Weather, Rinse, Repeat," Chapter 10 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [What's an Algorithm?](https://www.youtube.com/watch?v=6hfOvs8pY1k&t=)
 - Code:
-  - Incrementing and Decrementing Variables
+  - Iterators
   - Reporter Blocks
   - Palindrome Checker
 
@@ -122,9 +124,9 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Read: Hannah Fry, "Data," Chapter 2 of *Hello World: Being Human in the Age of Algorithms* (New York: Norton, 2018), pp. 25-47
 - Watch: [Do Digital Home Devices Put your Privacy at Risk?](https://www.youtube.com/watch?v=3QzmmeTEk30)
 - Code:
-  - Global Variables and Sprite Variables (Quantum Time Distortion)
-  - Make Your Own Block (Say Hello; Square; Draw a Shape; Day of the Week)
-  - Parameters and Arguments (Palindrome Checker *revisited*)
+  - 'Say Hello' Function
+  - 'Draw a Shape' Function
+  - 'Day of the Week' Function
 
 ### Week Four: Data Structures I
 
@@ -141,8 +143,8 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Read: Martin Erwig, "The Detective's Notebook," Chapter 4 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [Lists](https://www.youtube.com/watch?v=KUQSgUMtyv0)
 - Code:
-  - Distinct Values
-  - Filtering Google Trends
+  - Distinct Values in a List
+  - Artworks from the Metropolitan Museum
 
 ### Week Five: Data Structures II
 
@@ -188,9 +190,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Read: Claire L. Evans, "The Tower of Babel," Chapter 4 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Who is Grace Hopper?](https://www.youtube.com/watch?v=Fg82iV-L8ZY)
 - Code:
-  - Fractal Tree
-  - Gray scale Function
-  - Creating Bar Graphs
+  - Caesar Cipher, *Revisted*
 
 #### October 3 - Artificial Intelligence
 *Coding assignment 5 due at the beginning of class*
@@ -198,7 +198,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Read: Alan Turing (October 1950), "Computing Machinery and Intelligence", *Mind*, LIX (236): 433–460, doi:10.1093/mind/LIX.236.433
 - Watch: [Friends Forever: Can an Artist and a Robot Maintain a Friendship?](https://www.youtube.com/watch?v=UsSYWmLm02U)
 - Code:
-  - Insult Generator
+  - Compliment Generator
   - Sudoku Solver
 
 ### Week Eight: Algorithms I
@@ -208,19 +208,21 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Read: Martin Erwig, "The Search for the Perfect Data Structure," Chapter 5 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [How Search Engines Treat Data](https://www.youtube.com/watch?v=vrjAIBgxm_w)
 - Code:
+  - B-Trees
   - Linear Search
   - Binary Search
-  - B-Trees
 
 #### October 10 - Sorting
 
 - Read: Martin Erwig, "Sorting Out Sorting," Chapter 6 of *Once Upon an Algorithm: How Stories Explain Computing"* (Cambridge: MIT Press, 2017)
 - Watch: [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
 - Code:
-  - BogoSort
-  - Bubble Sort
-  - Sequential Sort
+  - Bogosort
+  - Selection Sort
   - Insertion Sort
+  - Bubble Sort
+  - Quicksort
+  - Merge Sort
 
 ### Week Nine: Review and Midterm
 
@@ -235,19 +237,18 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Read: Claire L. Evans, "Resource One," Chapter 7 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Project One](https://archive.org/details/cbpf_000052) [N.B. Please watch the first five minutes and 46:00 to 48:30.]
 - Code:
-  - "Hello, World" (Peer-to-Peer)
-  - Dice App
+  - "Hello, Worlds" (Peer-to-Peer)
+  - Whiteboard
 
 ### October 24 - No Class - Fall Break
 
 ### Week Eleven: Distributed Computing II
 
 #### October 29 - Client-Server Applications
-- Read: Claire L. Evans, "Communities," Chapter 8 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
+- Read: Claire L. Evans, "Networks," Chapter 8 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Early Days of the WELL](https://www.youtube.com/watch?v=-5XRrza88v4)
 - Code:
   - Chatroom
-  - Whiteboard
 
 #### October 31 - Internet Censorship and Security
 
@@ -265,8 +266,6 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Code:
   - Trees in a Forest
   - Computing Factorials
-  - QuickSort
-  - Towers of Hanoi
 
 #### November 7 - Efficiency and Limits of Computing
   
@@ -280,7 +279,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 
 #### November 12 - Remote Procedure Calls
 
-- Read: Claire L. Evans, "Hypertext," Chapter 10 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
+- Read: Claire L. Evans, "Communities," Chapter 9 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
 - Code:
   - Google Maps
@@ -292,27 +291,26 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Read: Mana Takahashi and Shoko Azuma, *The Manga Guide to Databases*, (San Francisco, CA: No Starch Press, 2009), Chapter One.
 - Watch: [What is a Database?](https://www.youtube.com/watch?v=t8jgX1f8kc4)
 - Code:
-  - Key-Value Stores
+  - CloudVariables RPC
 
 ### Week Fourteen: Next Steps
 
-#### November 19 - Computational Thinking Beyond *NetsBlox*
+#### November 19 - Digital Humanities
+
+- Read: Claire L. Evans, "Hypertext," Chapter 10 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
+- Watch: [Big Data + Old History](https://www.youtube.com/watch?v=tp4y-_VoXdA)
+- Code:
+  - Natural Language Processing with Parallel Dots
+
+#### November 21 - Computational Thinking Beyond *NetsBlox*
 
 - Read: Martin Erwig, "A Bird's Eye View of Abstracting from Details," Chapter 15 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [The Art of Abstraction](https://www.youtube.com/watch?v=p7nGcY73epw)
 - Code:
   - Javascript in NetsBlox
+  - Validating an Email Address
 
-#### November 21 - Digital Humanities
-
-- Read: Edward Vanhoutte, [The Gates of Hell: History and Definition of Digital | Humanities | Computing](http://blogs.ucl.ac.uk/definingdh/files/2013/10/Chapter-6_EV.pdf), Chapter 6 of *Defining Digital Humanities: A Reader*, ed. Melissa Terras, Julianne Nyhan, and Edward Vanhoutte (Surrey: Ashgate, 2013)
-Computing
-- Watch: [Big Data + Old History](https://www.youtube.com/watch?v=tp4y-_VoXdA)
-- Code:
-  - Mapping Berlin
-  - Querying Wikidata
-
-### Week Fifteen: Project Demos
+### Week Fifteen: Project Demonstrations
 
 #### December 3 - Student Projects, Part One
 
