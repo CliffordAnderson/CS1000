@@ -252,7 +252,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 
 #### October 31 - Internet Censorship and Security
 
-- Read: MacKinnon, Rebecca. "[Democratic Censorship](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=868682)," Chapter 6 of *Consent of the Networked: The Worldwide Struggle For Internet Freedom* (Basic Books, 2012)
+- Read: MacKinnon, Rebecca. "[Democratic Censorship](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=868682&ppg=114)," Chapter 6 of *Consent of the Networked: The Worldwide Struggle For Internet Freedom* (Basic Books, 2012), pp. 87-97
 - Watch: [What Is A Man-in-the-Middle Attack?](https://www.youtube.com/watch?v=DgqID9k83oQ)
 - Code:
   - Person-in-the-Middle Attack
