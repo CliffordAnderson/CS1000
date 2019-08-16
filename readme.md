@@ -1,4 +1,5 @@
-# CS 1000: The Beauty and Joy of Computing
+## CS 1000
+# The Beauty and Joy of Computing
 
 This course introduces the fundamental concepts of computing including abstraction, algorithms, design, and distributed computation. The curriculum is hands-on, focusing on translating ideas into working computer programs and developing a mastery of practical computational literacy. We write our programs in [NetsBlox](https://netsblox.org/), a block-based language developed by a research team at Vanderbilt University. Along the way, we also discuss the history, ethics, and cultural impact of computing.  
 
@@ -21,9 +22,9 @@ A mirror copy of the syllabus is available on [Github](https://github.com/Cliffo
   - Administrative Assistant: Susan D. Grider (2-2187)
 
 - Will Moss, Grader
-  - Email: 
-  - Office: 
-  - Office Hours: 
+  - Email:
+  - Office:
+  - Office Hours:
 
 ## Meetings
 
@@ -60,7 +61,7 @@ Class participation is an important component of this course and more than two u
 
 ### Academic Integrity
 
-The Vanderbilt University [Honor Code](https://www.vanderbilt.edu/student_handbook/the-honor-system/#statement-of-the-honor-code) applies to all activities in this course. In terms of this course, the basic rule is this -- all work submitted in this class must be done completely on your own without assistance from any person, place or thing except the instructors or TAs for this course, the course textbook, and course lecture slides. If you have any doubts, ask your instructor for clarification, not another student (not even the teaching assistants). 
+The Vanderbilt University [Honor Code](https://www.vanderbilt.edu/student_handbook/the-honor-system/#statement-of-the-honor-code) applies to all activities in this course. As for this course, the basic rule is this -- all work submitted in this class must be done completely on your own without assistance from any person, place or thing except the instructors or TAs for this course, the course textbook, and course lecture slides. If you have any doubts, ask your instructor for clarification, not another student (not even the teaching assistants).
 
 ### Student Privacy
 
@@ -72,7 +73,7 @@ We will be using a free and open-source visual programing language called [NetsB
 
 ## Disclaimer
 
-This syllabus provides a general outline for the course. Given that this is the first offering of this course at Vanderbilt University, the readings and coding assignments are subject to change. If I have to make substitutions, I will update the syllabus and communicate those changes during class.
+This syllabus provides a general outline for the course. The readings and coding assignments are subject to change. If I have to make substitutions, I will update the syllabus and communicate those changes during class.
 
 ## Class Schedule
 
@@ -122,7 +123,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 *Coding assignment 1 due at the beginning of class*
 
 - Read: Hannah Fry, "Data," Chapter 2 of *Hello World: Being Human in the Age of Algorithms* (New York: Norton, 2018), pp. 25-47
-- Watch: [Do Digital Home Devices Put your Privacy at Risk?](https://www.youtube.com/watch?v=3QzmmeTEk30)
+- Watch: [Amazon's Alexa Raises Concerns Over Tech and Surveillance](https://www.youtube.com/watch?v=2i2Sn09gmWc)
 - Code:
   - 'Say Hello' Function
   - 'Draw a Shape' Function
@@ -260,7 +261,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 ### Week Twelve: Algorithms II
 
 #### November 5 - Recursion
- 
+
 - Read: Martin Erwig, "A Stich in Time Computers Fine," Chapter 12 of *Once Upon an Algorithm: How Stories Explain Computing"* (Cambridge: MIT Press, 2017)
 - Watch: [What on Earth is Recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
 - Code:
@@ -268,7 +269,7 @@ This syllabus provides a general outline for the course. Given that this is the 
   - Computing Factorials
 
 #### November 7 - Efficiency and Limits of Computing
-  
+
 - Read: "Mission Intractable," Chapter 7 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [P vs NP on TV](https://www.youtube.com/watch?v=dJUEkjxylBw)
 - Code:
@@ -310,7 +311,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 - Code:
   - Javascript in NetsBlox
   - Validating an Email Address
-  
+
 ### Week Fifteen -  No Class - Thanksgivning
 
 ### Week Sixteen: Project Demonstrations
