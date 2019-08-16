@@ -178,7 +178,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 #### September 26 - Digital Secrets
 *Coding assignment 4 due at the beginning of class*
 
-- Read: Mitani, Masaaki, Shinichi Sato, and Idero Hinoki. "The Foundations of Encryption," Chapter One of *The Manga Guide to Cryptography* (San Francisco: No Starch Press, 2018)
+- Read: Masaaki Mitani, Shinichi Sato, and Idero Hinoki. "The Foundations of Encryption," Chapter One of *The Manga Guide to Cryptography* (San Francisco: No Starch Press, 2018), pp. 15-46
 - Watch: [Cryptography: The Science of Making and Breaking Codes](https://www.youtube.com/watch?v=-yFZGF8FHSg)
 - Code:
   - Caesar Cipher
@@ -288,7 +288,7 @@ This syllabus provides a general outline for the course. Given that this is the 
 
 #### November 14 - Databases
 
-- Read: Mana Takahashi and Shoko Azuma, "What is a Database?" Chapter 1 of *The Manga Guide to Databases* (San Francisco: No Starch Press, 2009)
+- Read: Mana Takahashi and Shoko Azuma, "What is a Database?" Chapter 1 of *The Manga Guide to Databases* (San Francisco: No Starch Press, 2009), pp. 1-22
 - Watch: [What is a Database?](https://www.youtube.com/watch?v=t8jgX1f8kc4)
 - Code:
   - CloudVariables RPC
