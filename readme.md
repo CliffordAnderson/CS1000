@@ -21,11 +21,6 @@ A mirror copy of the syllabus is available on [Github](https://github.com/Cliffo
   - Office Hours: 9 - 11 a.m. on Mondays or by appointment
   - Administrative Assistant: Susan D. Grider (2-2187)
 
-- Will Moss, Grader
-  - Email:
-  - Office:
-  - Office Hours:
-
 ## Meetings
 
 - T/R 9:35 a.m. - 10:50 a.m. in Olin Hall 135
