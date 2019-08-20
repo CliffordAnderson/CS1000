@@ -116,6 +116,7 @@ This syllabus provides a general outline for the course. The readings and coding
 
 #### September 5 - Privacy and Information Hiding
 *Coding assignment 1 due at the beginning of class*
+
 *Guest lecturer: Melissa Mallon, Director of Peabody Library/Director of Liaison & Instruction Services*
 
 - Read: Hannah Fry, "Data," Chapter 2 of *Hello World: Being Human in the Age of Algorithms* (New York: Norton, 2018), pp. 25-47
