@@ -15,7 +15,7 @@ A mirror copy of the syllabus is available on [Github](https://github.com/Cliffo
 
 ## Faculty
 
-- [Clifford Anderson](https://www.cliffordanderson.net/), Associate University Librarian for Research and Learning and Adjunct Professor of Computer Science
+- [Clifford Anderson](https://www.cliffordanderson.net/), Associate University Librarian for Research and Digital Initiatives and Adjunct Professor of Computer Science
   - Email: clifford.anderson@vanderbilt.edu
   - Office: 213 Law Library
   - Office Hours: 9 - 11 a.m. on Mondays or by appointment
@@ -79,9 +79,9 @@ This syllabus provides a general outline for the course. The readings and coding
 - Read: Claire L. Evans, "A Computer Wanted," Chapter 1 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Computational Thinking: A Digital Age Skill for Everyone](https://www.youtube.com/watch?v=VFcUgSYyRPg)
 - Code:
-  - Draw a square
-  - Draw a triangle
-  - Draw a circle
+  - Draw a Square
+  - Draw a Triangle
+  - Draw a Circle
 
 ### Week Two: Programming Basics
 
