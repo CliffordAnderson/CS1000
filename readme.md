@@ -92,6 +92,7 @@ This syllabus provides a general outline for the course. The readings and coding
 - Code:
   - Hansel and Gretel
   - Fidget Spinner
+  - Splatter Painting
   - Click Alzonzo
 
 #### August 29 - Predicates and Branching
@@ -286,6 +287,8 @@ This syllabus provides a general outline for the course. The readings and coding
 
 #### November 14 - Databases
 
+*Guest Lecturer: Gordon Stein, Ph.D. Candidate in Computer Science, Vanderbilt University*
+
 - Read: Mana Takahashi and Shoko Azuma, "What is a Database?" Chapter 1 of *The Manga Guide to Databases* (San Francisco: No Starch Press, 2009), pp. 1-22
 - Watch: [What is a Database?](https://www.youtube.com/watch?v=t8jgX1f8kc4)
 - Code:
@@ -309,7 +312,7 @@ This syllabus provides a general outline for the course. The readings and coding
   - Javascript in NetsBlox
   - Validating an Email Address
 
-### Week Fifteen -  No Class - Thanksgivning
+### Week Fifteen -  No Class - Thanksgiving
 
 ### Week Sixteen: Project Demonstrations
 
