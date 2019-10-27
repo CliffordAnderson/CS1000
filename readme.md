@@ -28,7 +28,7 @@ A mirror copy of the syllabus is available on [Github](https://github.com/Cliffo
 ## Required Texts
 
 - Erwig, Martin. *Once Upon an Algorithm: How Stories Explain Computing*. Cambridge: The MIT Press, 2017.
-- Evans, Claire. *Broad Brand: The Untold Story of the Women Who Made the Internet*. New York: Portfolio/Penguin, 2018.
+- Evans, Claire. *Broad Band: The Untold Story of the Women Who Made the Internet*. New York: Portfolio/Penguin, 2018.
 
 Other assigned readings will be available via BrightSpace. The syllabus also includes links to short videos for each session.
 
@@ -76,7 +76,7 @@ This syllabus provides a general outline for the course. The readings and coding
 
 #### August 22 - What is Computational Thinking?
 
-- Read: Claire L. Evans, "A Computer Wanted," Chapter 1 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
+- Read: Claire L. Evans, "A Computer Wanted," Chapter 1 of *Broad Band: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Computational Thinking: A Digital Age Skill for Everyone](https://www.youtube.com/watch?v=VFcUgSYyRPg)
 - Code:
   - Draw a Square
@@ -168,7 +168,7 @@ This syllabus provides a general outline for the course. The readings and coding
 
 #### September 24 - Events and Game Loops
 
-- Read: Claire L. Evans, "The Longest Cave," Chapter 6 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
+- Read: Claire L. Evans, "The Longest Cave," Chapter 6 of *Broad Band: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Event-Driven Programming](https://www.youtube.com/watch?v=fpphnWwMrug&t=22s)
 - Code:
   - Platform Game
@@ -186,7 +186,7 @@ This syllabus provides a general outline for the course. The readings and coding
 
 #### October 1 - Higher-Order Functions
 
-- Read: Claire L. Evans, "The Tower of Babel," Chapter 4 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
+- Read: Claire L. Evans, "The Tower of Babel," Chapter 4 of *Broad Band: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Who is Grace Hopper?](https://www.youtube.com/watch?v=Fg82iV-L8ZY)
 - Code:
   - Caesar Cipher, *Revisted*
@@ -233,7 +233,7 @@ This syllabus provides a general outline for the course. The readings and coding
 
 #### October 22 - Message Passing
 
-- Read: Claire L. Evans, "Resource One," Chapter 7 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
+- Read: Claire L. Evans, "Resource One," Chapter 7 of *Broad Band: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Project One](https://archive.org/details/cbpf_000052) [N.B. Please watch the first five minutes and 46:00 to 48:30.]
 - Code:
   - "Hello, Worlds" (Peer-to-Peer)
@@ -244,7 +244,7 @@ This syllabus provides a general outline for the course. The readings and coding
 ### Week Eleven: Distributed Computing II
 
 #### October 29 - Client-Server Applications
-- Read: Claire L. Evans, "Networks," Chapter 8 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
+- Read: Claire L. Evans, "Networks," Chapter 8 of *Broad Band: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Early Days of the WELL](https://www.youtube.com/watch?v=-5XRrza88v4)
 - Code:
   - Chatroom
@@ -278,7 +278,7 @@ This syllabus provides a general outline for the course. The readings and coding
 
 #### November 12 - Remote Procedure Calls
 
-- Read: Claire L. Evans, "Communities," Chapter 9 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
+- Read: Claire L. Evans, "Communities," Chapter 9 of *Broad Band: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
 - Code:
   - Google Maps
@@ -298,7 +298,7 @@ This syllabus provides a general outline for the course. The readings and coding
 
 #### November 19 - Digital Humanities
 
-- Read: Claire L. Evans, "Hypertext," Chapter 10 of *Broad Brand: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
+- Read: Claire L. Evans, "Hypertext," Chapter 10 of *Broad Band: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Big Data + Old History](https://www.youtube.com/watch?v=tp4y-_VoXdA)
 - Code:
   - Natural Language Processing with Parallel Dots
